@@ -5,6 +5,7 @@ Hardy
 Ryan
 Amir
 Wahyudin
+juzanda
 Agung
 
 Ewang
